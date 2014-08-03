@@ -1,0 +1,17 @@
+<package>
+  <description brief="joy_teleop">
+
+     joy_teleop
+
+  </description>
+  <author>Dinuka</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/joy_teleop</url>
+  <depend package="roscpp"/>
+  <depend package="ardrone_brown"/>
+  <depend package="joy"/>
+
+</package>
+
+
